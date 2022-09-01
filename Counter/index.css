@@ -14,9 +14,14 @@ button {
   width: 10em;
   height: 3em;
   color: white;
-  border-radius: 0.5em;
+  border-radius: 0.25em;
+  margin-top: 1em;
 }
 
 #increment-btn {
   background-color: green;
+}
+
+#save-btn {
+  background-color: red;
 }
